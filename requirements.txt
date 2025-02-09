@@ -1,0 +1,8 @@
+
+colorama
+json5
+numba
+numpy
+protobuf
+PyYAML
+setuptools
