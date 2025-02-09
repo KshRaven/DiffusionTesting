@@ -16,7 +16,7 @@ def load_requirements(filename='requirements.txt'):
 
 
 setup(
-    name='TestModels',
+    name='diffusion-proj',
     version='1.0.0',
     author='Bradley Odimmasi',
     author_email='bodimmasi@students.uonbi.ac.ke',
