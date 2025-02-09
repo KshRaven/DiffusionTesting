@@ -6,3 +6,5 @@ numpy
 protobuf
 PyYAML
 setuptools
+matplotlib
+jupyter

@@ -17,7 +17,7 @@ def load_requirements(filename='requirements.txt'):
 
 setup(
     name='diffusion-proj',
-    version='1.0.0',
+    version='1.0.1',
     author='Bradley Odimmasi',
     author_email='bodimmasi@students.uonbi.ac.ke',
     description='A package for testing build',

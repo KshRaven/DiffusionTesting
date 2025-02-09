@@ -1,6 +1,6 @@
 
-from diffusion_proj.model.base.sub import VAE_AttentionBlock, VAE_ResidualBlock
-from diffusion_proj.model.base.debugging import get_tensor_info
+from diffusion_proj.models.base.sub import VAE_AttentionBlock, VAE_ResidualBlock
+from diffusion_proj.models.base.debugging import get_tensor_info
 from diffusion_proj.util.fancy_text import CM, Fore
 
 from torch import nn
